@@ -8,3 +8,8 @@ function outer(){
 }
 
 const t = outer()
+
+function x(){
+    console.log("Happy")
+}
+x()
